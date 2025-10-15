@@ -26,10 +26,6 @@ Este projeto é um sistema de controle de retirada e devolução de veículos po
 
 ## 🧱 Estrutura do Projeto
 
-Este projeto está em constante evolução. As próximas etapas planejadas incluem:
-• 	🔧 Transformar o sistema em uma API REST com Spring Boot
-• 	📱 Desenvolver um aplicativo mobile para Android e iOS usando Flutter
-• 	🖥️ Criar uma interface gráfica para uso interno dos colaboradores
-• 	🔐 Implementar autenticação e controle de acesso
-• 	☁️ Migrar o banco de dados para uma solução em nuvem (futuramente)
 
+<img width="999" height="562" alt="Imagem2" src="https://github.com/user-attachments/assets/c1e2263d-39ec-4db5-8480-a43952cf7ec2" />
+<img width="999" height="562" alt="Imagem1" src="https://github.com/user-attachments/assets/db315000-1653-4b7c-8e41-b0ca89df82db" />
